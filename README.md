@@ -84,3 +84,5 @@ code
 ### Day 24 - Munchi API endpoints and pantry wireframe
 
 ### Day 25 - Munchi Front end set up
+
+### Day 26 - Munchi Inventory UI Functionality
