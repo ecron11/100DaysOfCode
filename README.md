@@ -25,6 +25,7 @@ These are the projects I've produced during the course of the challenge. Check t
 [code](https://github.com/ecron11/subnet-microservice)
 ### Hasher API
 [link](https://hasher.erik-longuepee.com/)
+
 code
 - [Front-end](https://github.com/ecron11/Crypto-Api-Frontend)
 - [Back-end](https://github.com/ecron11/CryptoApi)
@@ -88,3 +89,7 @@ code
 ### Day 26 - Munchi Inventory UI Functionality
 
 ### Day 27 - Munchi API calls, saving and other functionality
+
+### Day 28 - Munchi OAuth, React Router
+
+### Day 29 - Munchi OAuth, .env refactoring for frontend
