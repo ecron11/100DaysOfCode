@@ -97,3 +97,5 @@ code
 ### Day 30 - React Router and javascript algorithms
 
 ### Day 31 - Munchi Oauth and API revising
+
+### Day 32 - Munchi inventory functionality/UI/React-router
