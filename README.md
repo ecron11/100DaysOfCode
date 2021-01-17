@@ -93,3 +93,7 @@ code
 ### Day 28 - Munchi OAuth, React Router
 
 ### Day 29 - Munchi OAuth, .env refactoring for frontend
+
+### Day 30 - React Router and javascript algorithms
+
+### Day 31 - Munchi Oauth and API revising
