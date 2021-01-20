@@ -99,3 +99,7 @@ code
 ### Day 31 - Munchi Oauth and API revising
 
 ### Day 32 - Munchi inventory functionality/UI/React-router
+
+### Day 33 - Munchi Frontend UI
+
+### Day 34 - Munchi Styles and bootstrap UI
