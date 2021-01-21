@@ -103,3 +103,7 @@ code
 ### Day 33 - Munchi Frontend UI
 
 ### Day 34 - Munchi Styles and bootstrap UI
+
+### Day 35 - Munchi Homepage and Footer
+
+### Day 36 - Javascript Algorithms
