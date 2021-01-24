@@ -107,3 +107,7 @@ code
 ### Day 35 - Munchi Homepage and Footer
 
 ### Day 36 - Javascript Algorithms
+
+### Day 37 - Munchi Cookbook & Docker
+
+### Day 38 - Python Automation
