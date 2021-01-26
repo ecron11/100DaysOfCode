@@ -115,3 +115,5 @@ code
 ### Day 39 - Python Coding Challenges and Docker
 
 ### Day 40 - Codewars Python Challenges
+
+### Day 41 - Python Challenges and Project Planning for React Generator
