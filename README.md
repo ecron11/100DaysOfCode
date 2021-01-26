@@ -113,3 +113,5 @@ code
 ### Day 38 - Python Automation
 
 ### Day 39 - Python Coding Challenges and Docker
+
+### Day 40 - Codewars Python Challenges
