@@ -117,3 +117,5 @@ code
 ### Day 40 - Codewars Python Challenges
 
 ### Day 41 - Python Challenges and Project Planning for React Generator
+
+### Day 42 - React Generator basics and python challenges
