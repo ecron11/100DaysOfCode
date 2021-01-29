@@ -119,3 +119,5 @@ code
 ### Day 41 - Python Challenges and Project Planning for React Generator
 
 ### Day 42 - React Generator basics and python challenges
+
+### Day 43 - React Generator formatting and python challenges
