@@ -123,3 +123,5 @@ code
 ### Day 43 - React Generator formatting and python challenges
 
 ### Day 44 - React Generator and codewars
+
+### Day 45 - Automatic readme updater and KodeKloud
