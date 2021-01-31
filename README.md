@@ -125,3 +125,5 @@ code
 ### Day 44 - React Generator and codewars
 
 ### Day 45 - Automatic readme updater and KodeKloud
+
+### Day 46 - KodeKloud DevOps Prereqs and KodeKloud Engineer
