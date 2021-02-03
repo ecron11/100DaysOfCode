@@ -127,3 +127,7 @@ code
 ### Day 45 - Automatic readme updater and KodeKloud
 
 ### Day 46 - KodeKloud DevOps Prereqs and KodeKloud Engineer
+
+### Day 47 - Portfolio update and KodeKloud
+
+### Day 48 - YAML, KodeKloud and cronjobs
