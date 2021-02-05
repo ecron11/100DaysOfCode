@@ -131,3 +131,5 @@ code
 ### Day 47 - Portfolio update and KodeKloud
 
 ### Day 48 - YAML, KodeKloud and cronjobs
+
+### Day 49 - KodeKloud, Linux, and Bash Scripting
