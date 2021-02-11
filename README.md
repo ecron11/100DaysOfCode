@@ -137,3 +137,6 @@ code
 ### Day 50 - Linux and Bash Scripting
 
 ### Day 51 - Bash Scripting
+
+### Day 52 - Bash Scripting
+
