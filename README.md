@@ -149,3 +149,7 @@ code
 ### Day 56 - More Git and AWS
 
 ### Day 57 - AWS and Terraform
+
+### Day 58 - AWS CLI
+
+### Day 59 - AWS SQS, SNS, etc.
